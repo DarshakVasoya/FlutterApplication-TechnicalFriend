@@ -1,0 +1,10 @@
+{
+    "2020-09-28": {
+        "a24": {
+            "image": "https://i.gadgets360cdn.com/large/microsoft_word_encrypt_document_1601306565289.jpg",
+            "content": "\nIf your workflow involves storing sensitive information on Microsoft Word or other Office apps, you might want to consider password protecting your documents. For instance, you might have to store a Word document containing sensitive information in a public folder for others to easily access. In this case, you probably should encrypt the file and share the password only with those who need to access the document. Follow this guide as we tell you how to password protect a Word document.\nMicrosoft Word: Password protect a document on Windows\nIt is always recommended to put a secure password on your documents that contain sensitive information. Now, follow these steps to password protect your Word document on Windows.\n.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\nMicrosoft Word: Encrypt a document on a Mac\nThis is how you can encrypt your document in Microsoft Word, so that if anyone tries to break in into your account, they will not be able to steal your sensitive information. Besides, you can repeat these same steps on a PC or Mac to password protect a PowerPoint presentation or even an Excel Workbook.\n.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }",
+            "heading": "How to Password Protect a Word Document",
+            "subnews": "Storing sensitive information in a Word document? Here\u2019s how you can protect it with a password."
+        }
+    }
+}
