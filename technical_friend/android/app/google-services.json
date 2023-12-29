@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "348852611980",
+    "firebase_url": "https://technical-friend-5a7b7.firebaseio.com",
+    "project_id": "technical-friend-5a7b7",
+    "storage_bucket": "technical-friend-5a7b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348852611980:android:86f59b8450e0f77e7b04a9",
+        "android_client_info": {
+          "package_name": "com.example.technical_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348852611980-gcmn656vpv47f5heit0phsb7ic6jug2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technical_friend",
+            "certificate_hash": "a7d2bec1c712b18e8aad73a9246f466f873cbae6"
+          }
+        },
+        {
+          "client_id": "348852611980-edvoppdjjfbn2cqt2dk1k1pfuvovs6ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSH7xiln9s9DGNt_90x6WNJ5GJt_SkU1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348852611980-edvoppdjjfbn2cqt2dk1k1pfuvovs6ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id":"ca-app-pub-9087629297377127~9869438358"
+    }
+  ],
+  "configuration_version": "1"
+}
