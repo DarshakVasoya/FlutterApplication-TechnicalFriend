@@ -8,3 +8,7 @@
 # WorkFlows
 
 ![darshak drawio (1)](https://github.com/DarshakVasoya/FlutterApplication-TechnicalFriend/assets/69636942/0cc61d42-134e-4886-a4ee-e7a439b038f9)
+
+# Overview of the Application
+
+![darshak drawio](https://github.com/DarshakVasoya/FlutterApplication-TechnicalFriend/assets/69636942/1ddccf5c-dd47-46fc-8493-6e45afaa26b4)
